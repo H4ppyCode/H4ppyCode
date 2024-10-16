@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![MetricsCalendar](/metrics.plugin.isocalendar.fullyear.svg)
+![Terminal](/metrics.terminal.svg)
 
 <!--![Metrics](/github-metrics.svg)-->
           
