@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![MetricsCalendar](/metrics.plugin.isocalendar.fullyear.svg)
+
 ![Metrics](/github-metrics.svg)
+          
