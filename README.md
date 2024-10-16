@@ -1,4 +1,3 @@
-
 ## Hi there 👋
 <!--
 **H4ppyCode/H4ppyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MetricsCalendar](/metrics.plugin.isocalendar.fullyear.svg)
-![Terminal](/metrics.terminal.svg)
-
-<!--![Metrics](/github-metrics.svg)-->
-          
+<div style="display: flex; justify-content: space-between;">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
+  <img src="/metrics.terminal.svg" alt="Metrics" width="400">
+</div>
