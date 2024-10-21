@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="350">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4ppycode&theme=vue-dark&hide_border=false" alt="Metrics" width="350">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ppycode&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="250">
       </p>
